@@ -2,8 +2,8 @@
 	$test = 1;
 		
 	if ($test == false) {
-		echo '+'; // сработает это
+		echo '+';
 	} else {
-		echo '-';
+		echo '-'; // сработает это
 	}
 ?>
