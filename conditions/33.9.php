@@ -2,7 +2,7 @@
 	$test = true;
 	
 	if ($test) {
-		echo '+'; // сработает это
+		echo '+';
 	} else {
 		echo '-';
 	}
